@@ -1,2 +1,3 @@
-# debug-playground
-Debug Playground
+# Debug Playground
+
+Debug cheat sheet for apps and libraries from different technologies.
